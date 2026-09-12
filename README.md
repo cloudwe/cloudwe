@@ -3,7 +3,7 @@
 If you are an internship interviewer, please contact me (e.g., via email or LinkedIn) to ensure you have access to my academic projects!
 
 ## Personal Project List:
-** - Android Mobile App to Manage Finances with AI Support
+** Android Mobile App to Manage Finances with AI Support
 *   **Tech Stack:** Kotlin, Android SDK, XML, MPAndroidChart
 *   **Overview:** Developing a native Android application to track personal expenses, calculate remaining monthly budgets, and provide smart financial insights.
 *   **Highlights:**
